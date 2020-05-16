@@ -1,3 +1,3 @@
-module github.com/rogercoll/goTest
+module github.com/rogercoll/goTests
 
 go 1.13

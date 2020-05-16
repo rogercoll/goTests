@@ -16,6 +16,7 @@
 
 ## Update on major version
 
+If you don't want to allow multiversion(create v2/ with a different go.mod inside) you must rename the actual go.mod too
 ```
 	cat go.mod
 	go get -u "github.com/xxx/yyy@vX.0.0

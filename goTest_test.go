@@ -1,4 +1,4 @@
-package goTest
+package gotest
 
 
 import (
